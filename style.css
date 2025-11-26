@@ -113,6 +113,7 @@ body {
 .product-btn:hover,
 .product-btn:active {
   background-color: var(--green-700);
+  cursor: pointer;
 }
 
 ion-icon {

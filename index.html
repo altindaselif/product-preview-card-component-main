@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="style.css" rel="stylesheet" />
+
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./images/favicon-32x32.png"
+    />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
+    />
+
+    <title>Product Preview Card Component</title>
+  </head>
+  <body>
+    <main class="product-container">
+      <header class="img-container">
+        <picture
+          ><source
+            srcset="images/image-product-mobile.jpg"
+            media="(max-width: 24em)" />
+          <img
+            class="product-img"
+            src="images/image-product-desktop.jpg"
+            alt="Product Picture"
+        /></picture>
+      </header>
+      <section class="product-details">
+        <span class="product-tag">Perfume</span>
+        <h1 class="product-title">Gabrielle Essence Eau De Parfum</h1>
+
+        <p class="product-info">
+          A floral, solar and voluptuous interpretation composed by Olivier
+          Polge, Perfumer-Creator for the House of CHANEL.
+        </p>
+        <div class="product-prices">
+          <p class="product-new-price">$149.99</p>
+          <p class="product-old-price">$169.99</p>
+        </div>
+        <button class="product-btn">
+          <ion-icon class="product-icon" name="cart-outline"></ion-icon>
+          <span>Add to Cart</span>
+        </button>
+      </section>
+    </main>
+
+    <script
+      type="module"
+      src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"
+    ></script>
+    <script
+      nomodule
+      src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"
+    ></script>
+  </body>
+</html>

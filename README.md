@@ -16,8 +16,8 @@ This is a Product Preview Card component that you can use on your websites.
 
 ## Links
 
-- Solution URL: [Product Preview Card Solution](https://github.com/altindaselif/blog-preview-card-main)
-- Live Site URL: [Product Preview Card Live](https://altindaselif.github.io/blog-preview-card-main/)
+- Solution URL: [Product Preview Card Solution](https://github.com/altindaselif/product-preview-card-component-main)
+- Live Site URL: [Product Preview Card Live](https://altindaselif.github.io/product-preview-card-component-main/)
 
 ## Built with
 

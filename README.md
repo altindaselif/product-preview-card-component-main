@@ -11,8 +11,8 @@ This is a Product Preview Card component that you can use on your websites.
 
 ## Screenshot
 
-[Desktop Screenshot](desktop-screenshot.png)
-[Mobile Screenshot](mobile-screenshot.png)
+- [Desktop Screenshot](desktop-screenshot.png)
+- [Mobile Screenshot](mobile-screenshot.png)
 
 ## Links
 

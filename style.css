@@ -31,7 +31,8 @@ body {
 }
 
 .product-container {
-  width: 50rem;
+  width: 100%;
+  max-width: 50rem;
   background-color: var(--white);
   border-radius: 2rem;
 

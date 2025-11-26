@@ -24,6 +24,7 @@ This is a Product Preview Card component that you can use on your websites.
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- Grid
 - Responsive site
 
 ## Author
